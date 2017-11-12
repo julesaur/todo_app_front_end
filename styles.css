@@ -1,7 +1,7 @@
 html{
     font-family:Arial, Helvetica, Sans-Serif;
     
-    background-color:#ffe6ff;
+    background-color: #ff0066;
     
 }
 
@@ -20,7 +20,7 @@ html{
     margin-bottom:25px;
     border:2px solid teal; 
 }
-li{background-color:#000066;
+li{background-color:##ffccff;
 color:white;
     margin-bottom: 10px;
     padding:5px 10px 5px 10px;
@@ -37,11 +37,26 @@ color:white;
          list-style:none;
          padding:5px;
          margin:10px;
-         background-color:#cc99ff;
+         background-color:#33001a;
          box-shadow:10px 10px 5px #260d1a;
          
      }
      
-    #Roses{ width:400px; height:200px;
-        margin-left: width:400px; height:200px;
+    #Roses{ 
+        width:350px; 
+        height:200px;
     }
+    #img-div{
+        width:93%;
+        margin:auto;}
+#todo-list{ float:right;
+    width:45%;
+    padding: 10px;
+    box-sizing: border-box;
+}
+#iframe{ float:left;
+    width:50%;
+    padding: 10px;
+    box-sizing: border-box;
+    
+}

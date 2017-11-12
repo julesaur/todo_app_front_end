@@ -1,0 +1,33 @@
+a{ 
+    text-decoration: none;
+    color: yellow;
+    vertical-align:baseline;
+    padding:6px;
+}
+
+#goback_button{
+    background-color:#00b8e6;
+}
+
+#goback_button:hover{
+    background-color: #e6e6ff;
+}
+
+
+#delete_button{
+    background-color:#e60000;
+}
+
+#delete_button:hover{
+    background-color:#e6e6ff;
+}
+
+
+
+#edit_button{
+    background-color:#00e673;
+}
+
+#edit_button:hover{
+    background-color:#e6e6ff;
+}
