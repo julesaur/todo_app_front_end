@@ -1,7 +1,7 @@
 html{
     font-family:Arial, Helvetica, Sans-Serif;
     
-    background-color:#ffcccc;
+    background-color:#ffe6ff;
     
 }
 
@@ -37,7 +37,11 @@ color:white;
          list-style:none;
          padding:5px;
          margin:10px;
-         background-color:#ffccff;
+         background-color:#cc99ff;
          box-shadow:10px 10px 5px #260d1a;
          
      }
+     
+    #Roses{ width:400px; height:200px;
+        margin-left: width:400px; height:200px;
+    }
