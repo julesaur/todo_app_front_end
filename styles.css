@@ -1,10 +1,24 @@
 html{
     font-family:Arial, Helvetica, Sans-Serif;
     
-    background-color:#f4f4f4;
+    background-color:#ffccff;
     
 }
 
 .container{ width:80%; margin:auto;
     
 }
+.time-estimate { 
+    font-weight:bold;
+    font-size:12px;
+    font-style:oblique;
+    border-radius:60px;
+    padding:2px 8px 2px 8px;
+    background-color:#ccffff;
+    margin-bottom:25px;
+    border:2px solid skyblue; 
+}
+
+
+
+
