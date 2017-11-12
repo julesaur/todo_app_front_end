@@ -1,24 +1,43 @@
 html{
     font-family:Arial, Helvetica, Sans-Serif;
     
-    background-color:#ffccff;
+    background-color:#ffcccc;
     
 }
 
 .container{ width:80%; margin:auto;
     
 }
-.time-estimate { 
+.time-estimate 
+  { 
+      color:gray;
     font-weight:bold;
     font-size:12px;
     font-style:oblique;
     border-radius:60px;
     padding:2px 8px 2px 8px;
-    background-color:#ccffff;
+    background-color:#eeccff;
     margin-bottom:25px;
-    border:2px solid skyblue; 
+    border:2px solid teal; 
+}
+li{background-color:#000066;
+color:white;
+    margin-bottom: 10px;
+    padding:5px 10px 5px 10px;
+    border:2px solid white;
+    border-radius:5px;
+
 }
 
+ h1{
+     text-align:center;
+     }
 
-
-
+     ul{
+         list-style:none;
+         padding:5px;
+         margin:10px;
+         background-color:#ffccff;
+         box-shadow:10px 10px 5px #260d1a;
+         
+     }
