@@ -1,7 +1,6 @@
 html{
     font-family:Arial, Helvetica, Sans-Serif;
-    
-    background-color: #ff0066;
+    color:violet;
     
 }
 
@@ -10,17 +9,17 @@ html{
 }
 .time-estimate 
   { 
-      color:gray;
+      color:violet;
     font-weight:bold;
     font-size:12px;
     font-style:oblique;
     border-radius:60px;
     padding:2px 8px 2px 8px;
-    background-color:#eeccff;
+    background-color:#ff00bf;
     margin-bottom:25px;
     border:2px solid teal; 
 }
-li{background-color:##ffccff;
+li{background-color:#4dffff;
 color:white;
     margin-bottom: 10px;
     padding:5px 10px 5px 10px;
@@ -37,14 +36,13 @@ color:white;
          list-style:none;
          padding:5px;
          margin:10px;
-         background-color:#33001a;
-         box-shadow:10px 10px 5px #260d1a;
+         box-shadow:10px 10px 5px #4dffff;
          
      }
      
-    #Roses{ 
-        width:350px; 
-        height:200px;
+    #Roses{ float:right;
+        width:80px; 
+        height:20px;
     }
     #img-div{
         width:93%;
@@ -60,3 +58,5 @@ color:white;
     box-sizing: border-box;
     
 }
+
+/* Start http://www.cursors-4u.com */ body, a:hover {cursor: url(http://cur.cursors-4u.net/cursors/cur-3/cur205.ani), url(http://cur.cursors-4u.net/cursors/cur-3/cur205.png), progress !important;} /* End http://www.cursors-4u.com */
